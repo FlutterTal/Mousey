@@ -32,7 +32,7 @@ It's a really cool language. If you know Lua and object-oriented programming, yo
 
 ```squirrel
 function render() {
-  Mousey.draw_text("Hello World!, Mousey.Vector2(400, 300))
+  Mousey.draw_text("Hello World!", Mousey.Vector2(400, 300))
 }
 ```
 
