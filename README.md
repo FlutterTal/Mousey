@@ -15,6 +15,7 @@ It's a really cool language. If you know Lua and object-oriented programming, yo
 - OpenGL 3.1
 - OpenAL
 - libyaml
+- SCons
 - Squirrel
 
 ## To do
