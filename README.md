@@ -19,12 +19,12 @@ It's a really cool language. If you know Lua and object-oriented programming, yo
 
 ## To do
 
-[ ] Music streaming support
-[ ] Physics engine implementation (we'll use Chipmunk to keep it rodent-themed)
-[ ] Joystick/Gamepad support
-[ ] Networking
-[ ] Documentation
-[ ] 3D support (will not likely be here in the first version of the framework)
+- [ ] Music streaming support
+- [ ] Physics engine implementation (we'll use Chipmunk to keep it rodent-themed)
+- [ ] Joystick/Gamepad support
+- [ ] Networking
+- [ ] Documentation
+- [ ] 3D support (will not likely be here in the first version of the framework)
 
 ## Here's what you can do
 
