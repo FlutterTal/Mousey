@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+Import("env")
+
+env.modules_files += ["modules/math/vector2.cpp", "modules/math/rect2.cpp", "modules/math/math_wrapper.cpp"]
