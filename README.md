@@ -1,5 +1,7 @@
 # Mousey
 
+[![Jk6Hk57.md.png](https://iili.io/Jk6Hk57.md.png)](https://freeimage.host/i/Jk6Hk57)
+
 Mousey is a free and open-source framework that you can use to create good and awesome 2D games using the Squirrel language. Right now on its very first premice, but you can code simple games like Pong or even Asteroids (and that is cool).
 
 ## Haven't get in touch with Squirrel before?
