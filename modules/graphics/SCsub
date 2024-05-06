@@ -1,5 +1,0 @@
-#!/usr/bin/env python
-
-Import("env")
-
-env.modules_files += ["modules/graphics/font.cpp", "modules/graphics/texture.cpp", "modules/graphics/graphics_wrapper.cpp"]
