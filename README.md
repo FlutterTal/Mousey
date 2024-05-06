@@ -16,7 +16,7 @@ It's a really cool language. If you know Lua and object-oriented programming, yo
 - SDL2_sound
 - OpenGL 3.1
 - OpenAL
-- libyaml
+- yaml-cpp
 - SCons
 - Squirrel
 
