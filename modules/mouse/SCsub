@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+Import("env")
+
+env.modules_files += ["modules/mouse/mouse_wrapper.cpp"]
