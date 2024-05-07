@@ -31,7 +31,7 @@ It's a really cool language. If you know Lua and object-oriented programming, yo
 
 ## Here's what you can do
 
-### Drawing text
+### Draw text
 
 ```squirrel
 function render() {
