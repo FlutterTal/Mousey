@@ -8,7 +8,7 @@ import time
 
 time_at_start = time.time()
 
-env = Environment(CPPPATH=['.', './include'], LIBS=['yaml', 'GL', 'openal', 'squirrel', 'sqstdlib', 'SDL2', 'SDL2_image', 'SDL2_ttf', 'SDL2_sound'], CXXCOMSTR="Compiling $TARGET", LINKCOMSTR="Linking $TARGET")
+env = Environment(CPPPATH=['.', './include'], LIBS=['yaml-cpp', 'GL', 'openal', 'squirrel', 'sqstdlib', 'SDL2', 'SDL2_image', 'SDL2_ttf', 'SDL2_sound'], CXXCOMSTR="Compiling $TARGET", LINKCOMSTR="Linking $TARGET")
 
 Export("env")
 
