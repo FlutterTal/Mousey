@@ -1,3 +1,7 @@
+# The repo has been moved to Codeberg. To contribute to the project, head over here: https://codeberg.org/FlutterTal/Mousey
+
+---
+
 # Mousey
 
 [![Jk6Hk57.md.png](https://iili.io/Jk6Hk57.md.png)](https://freeimage.host/i/Jk6Hk57)
